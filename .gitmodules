@@ -1,0 +1,66 @@
+[submodule "Awesome-Federated-Learning"]
+	path = Awesome-Federated-Learning
+	url = https://github.com/chaoyanghe/Awesome-Federated-Learning
+[submodule "federated"]
+	path = federated
+	url = https://github.com/google-research/federated
+[submodule "leaf"]
+	path = leaf
+	url = https://github.com/TalwalkarLab/leaf
+[submodule "machine-learning-diff-private-federated-learning"]
+	path = machine-learning-diff-private-federated-learning
+	url = https://github.com/SAP-samples/machine-learning-diff-private-federated-learning
+[submodule "federated-learning"]
+	path = federated-learning
+	url = https://github.com/shaoxiongji/federated-learning
+[submodule "Federated-Learning-PyTorch"]
+	path = Federated-Learning-PyTorch
+	url = https://github.com/AshwinRJ/Federated-Learning-PyTorch
+[submodule "flower"]
+	path = flower
+	url = https://github.com/adap/flower
+[submodule "FedProx"]
+	path = FedProx
+	url = https://github.com/litian96/FedProx
+[submodule "openfl"]
+	path = openfl
+	url = https://github.com/intel/openfl
+[submodule "everything-federated-learning"]
+	path = everything-federated-learning
+	url = https://github.com/ZeroWangZY/federated-learning
+[submodule "awesome-federated-learning"]
+	path = awesome-federated-learning
+	url = https://github.com/poga/awesome-federated-learning
+[submodule "awesome-federated-computing"]
+	path = awesome-federated-computing
+	url = https://github.com/tushar-semwal/awesome-federated-computing
+[submodule "Practicing-Federated-Learning"]
+	path = Practicing-Federated-Learning
+	url = https://github.com/FederatedAI/Practicing-Federated-Learning
+[submodule "FedMA"]
+	path = FedMA
+	url = https://github.com/IBM/FedMA
+[submodule "eggroll"]
+	path = eggroll
+	url = https://github.com/WeBankFinTech/eggroll
+[submodule "Awesome-Federated-Machine-Learning"]
+	path = Awesome-Federated-Machine-Learning
+	url = https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
+[submodule "FedVision"]
+	path = FedVision
+	url = https://github.com/FederatedAI/FedVision
+[submodule "backdoor_federated_learning"]
+	path = backdoor_federated_learning
+	url = https://github.com/ebagdasa/backdoor_federated_learning
+[submodule "FedLab"]
+	path = FedLab
+	url = https://github.com/SMILELab-FL/FedLab
+[submodule "adaptive-federated-learning"]
+	path = adaptive-federated-learning
+	url = https://github.com/IBM/adaptive-federated-learning
+[submodule "flsim"]
+	path = flsim
+	url = https://github.com/iQua/flsim
+[submodule "NIID-Bench"]
+	path = NIID-Bench
+	url = https://github.com/Xtra-Computing/NIID-Bench
