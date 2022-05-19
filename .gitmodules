@@ -64,3 +64,6 @@
 [submodule "NIID-Bench"]
 	path = NIID-Bench
 	url = https://github.com/Xtra-Computing/NIID-Bench
+[submodule "LSTM-with-Federated-Machine-Learning"]
+	path = LSTM-with-Federated-Machine-Learning
+	url = https://github.com/alwaysmiler/LSTM-with-Federated-Machine-Learning
