@@ -67,3 +67,6 @@
 [submodule "LSTM-with-Federated-Machine-Learning"]
 	path = LSTM-with-Federated-Machine-Learning
 	url = https://github.com/alwaysmiler/LSTM-with-Federated-Machine-Learning
+[submodule "FedRepo"]
+	path = FedRepo
+	url = https://github.com/lxcnju/FedRepo
