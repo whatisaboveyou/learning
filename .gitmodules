@@ -79,3 +79,6 @@
 [submodule "funNLP"]
 	path = funNLP
 	url = https://github.com/fighting41love/funNLP
+[submodule "NLP_ability"]
+	path = NLP_ability
+	url = https://github.com/DA-southampton/NLP_ability
