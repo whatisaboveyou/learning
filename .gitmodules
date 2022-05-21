@@ -70,3 +70,12 @@
 [submodule "FedRepo"]
 	path = FedRepo
 	url = https://github.com/lxcnju/FedRepo
+[submodule "awesome-awesome-machine-learning"]
+	path = awesome-awesome-machine-learning
+	url = https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning
+[submodule "pytorch-metric-learning"]
+	path = pytorch-metric-learning
+	url = https://github.com/KevinMusgrave/pytorch-metric-learning
+[submodule "funNLP"]
+	path = funNLP
+	url = https://github.com/fighting41love/funNLP
