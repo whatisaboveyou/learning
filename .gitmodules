@@ -82,3 +82,9 @@
 [submodule "NLP_ability"]
 	path = NLP_ability
 	url = https://github.com/DA-southampton/NLP_ability
+[submodule "SUMMARY/Practicing-Federated-Learning"]
+	path = SUMMARY/Practicing-Federated-Learning
+	url = https://github.com/FederatedAI/Practicing-Federated-Learning
+[submodule "SUMMARY/Awesome-Federated-Machine-Learning"]
+	path = SUMMARY/Awesome-Federated-Machine-Learning
+	url = https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
