@@ -88,3 +88,6 @@
 [submodule "SUMMARY/Awesome-Federated-Machine-Learning"]
 	path = SUMMARY/Awesome-Federated-Machine-Learning
 	url = https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
+[submodule "SUMMARY/leaf"]
+	path = SUMMARY/leaf
+	url = https://github.com/TalwalkarLab/leaf
