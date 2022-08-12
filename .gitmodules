@@ -91,3 +91,6 @@
 [submodule "SUMMARY/leaf"]
 	path = SUMMARY/leaf
 	url = https://github.com/TalwalkarLab/leaf
+[submodule "FedAvg-TF-and-Torch"]
+	path = FedAvg-TF-and-Torch
+	url = https://github.com/WHDY/FedAvg
